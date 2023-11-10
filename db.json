@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "username": "john1",
+      "email": "johndoe@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "username": "john1",
+      "email": "johndoe@yahoo.fr",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "username": "jjhdhd",
+      "email": "jdjd@gmail.com",
+      "password": "azertyuiop",
+      "confirmPassword": "azertyuiop",
+      "id": 3
+    },
+    {
+      "username": "babygirl",
+      "email": "bbg@yopmail.com",
+      "password": "azertyuiop",
+      "confirmPassword": "azertyuiop",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "publication": "I still working on ReactJS to improve my level",
+      "image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1380&t=st=1699629114~exp=1699629714~hmac=23d3e2cd67e257e7b61131c45ddc4df35c30fdfa034c68cd77e3d99ec3f8d20b",
+      "idUser": 1,
+      "publishDate": "2023-11-10T21:31:13.824Z",
+      "numberOfLike": 0,
+      "author": "john1",
+      "id": 1
+    },
+    {
+      "publication": "What a breakfast! I really like it",
+      "image": "https://img.freepik.com/premium-photo/breakfast-buffet-healthy-continental-coffee_79295-5898.jpg?w=1380",
+      "idUser": 1,
+      "publishDate": "2023-11-10T21:37:33.759Z",
+      "numberOfLike": 0,
+      "author": "john1",
+      "id": 2
+    },
+    {
+      "publication": "Baby girl announcement",
+      "image": "https://img.freepik.com/free-vector/newborn-girl-hand-drawn-elements-set_1284-34885.jpg?w=826&t=st=1699653644~exp=1699654244~hmac=91ff5fef8374de765dde36e87710088490723f0b744a3c2fcb5e587ba46ab81a",
+      "idUser": 4,
+      "publishDate": "2023-11-10T22:01:30.284Z",
+      "numberOfLike": 0,
+      "author": "babygirl",
+      "id": 3
+    }
+  ]
+}
